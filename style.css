@@ -1,0 +1,60 @@
+h1 {
+  text-align: center;
+} /* This center my most important header */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border: 3px solid black
+} /* This center my photo and adds a border */
+
+body {
+  text-align: center;
+  background-color: powderblue;
+ } /*This adds a nice background color to the whole webpage and centers the body*/
+
+ul {
+  display: inline-block;
+} /* This pulls the bullets for the unordered list to the center */
+
+ol {
+  display: inline-block;
+} /* This pulls the numbers for the order list to the center */
+
+* {
+  box-sizing: border-box;
+  margin: 8px;
+  padding: 2px;
+} /* This assigns everything a border box, sets the margin size, and sets the padding size */
+
+p {
+  font-family: "Arial";
+} /* This assigns the font "Arial" to every paragraph */
+
+hr {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: black;
+} /* This assigns a color to the horizonal line ruler */
+
+h2 {
+  font-family: "Arial";
+  font-size: 30px;
+} /* This assigns the font "Arial" and the desired font size to the second most important header */
+
+h3 {
+  font-family: "Arial";
+  font-size: 25px; 
+} /* This assigns the font "Arial" and the desired font size to the third most important header */
+
+* {
+  height: auto; 
+} /* assigns height property to auto like I wanted without this setting */
+
+a:link    { color: #8b008b;  }
+a:visited { color: #872657;   }
+a:hover   { color: #9932cc; }
+a:active  { color: #e75480;  }
