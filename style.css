@@ -35,6 +35,10 @@ ol {
   box-sizing: border-box;
   margin: 8px;
   padding: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 6px solid black;
+  width: 50%;
 } /* This assigns everything a border box, sets the margin size, and sets the padding size */
 
 p {
