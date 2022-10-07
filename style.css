@@ -20,7 +20,6 @@ ul {
   margin-left: auto;
   margin-right: auto;
   border: 6px solid black;
-  width: 50%;
 } /* This pulls the bullets for the unordered list to the center */
 
 ol {
@@ -28,7 +27,6 @@ ol {
   margin-left: auto;
   border: 6px solid black;
   margin-right: auto;
-  width: 50%;
 } /* This pulls the numbers for the order list to the center */
 
 * {
@@ -38,7 +36,6 @@ ol {
   margin-left: auto;
   margin-right: auto;
   border: 6px solid black;
-  width: 50%;
 } /* This assigns everything a border box, sets the margin size, and sets the padding size */
 
 p {
@@ -48,7 +45,6 @@ p {
 hr {
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
   background-color: black;
 } /* This assigns a color to the horizonal line ruler */
 
@@ -86,7 +82,6 @@ nav {
   border: 6px solid black;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
 
 
