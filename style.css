@@ -7,7 +7,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
-  border: 3px solid black
+  border: 6px solid black;
 } /* This center my photo and adds a border */
 
 body {
@@ -17,10 +17,18 @@ body {
 
 ul {
   display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 6px solid black;
+  width: 50%;
 } /* This pulls the bullets for the unordered list to the center */
 
 ol {
   display: inline-block;
+  margin-left: auto;
+  border: 6px solid black;
+  margin-right: auto;
+  width: 50%;
 } /* This pulls the numbers for the order list to the center */
 
 * {
@@ -67,9 +75,14 @@ img {
  display: block;
  margin-left: auto;
  margin-right: auto;
- border: 3px solid black; 
+ border: 6px solid black; 
 }
 
 nav {
-  border: 5px solid black;
+  border: 6px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
+
+
