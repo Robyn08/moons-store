@@ -7,25 +7,26 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
-  border: 6px solid black;
+  border: 3px solid black;
 } /* This center my photo and adds a border */
 
 body {
   text-align: center;
   background-color: #8fa59f;
+  border: 3px solid black;
  } /*This adds a nice background color to the whole webpage and centers the body*/
 
 ul {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
-  border: 6px solid black;
+  border: 3px solid black;
 } /* This pulls the bullets for the unordered list to the center */
 
 ol {
   display: inline-block;
   margin-left: auto;
-  border: 6px solid black;
+  border: 3px solid black;
   margin-right: auto;
 } /* This pulls the numbers for the order list to the center */
 
@@ -35,8 +36,7 @@ ol {
   padding: 2px;
   margin-left: auto;
   margin-right: auto;
-  border: 6px solid black;
-} /* This assigns everything a border box, sets the margin size, and sets the padding size */
+} /* This assigns everything a margin size and sets the padding size */
 
 p {
   font-family: "Arial";
@@ -75,7 +75,7 @@ img {
  display: block;
  margin-left: auto;
  margin-right: auto;
- border: 6px solid black; 
+ border: 3px solid black; 
 }
 
 nav {
