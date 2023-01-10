@@ -62,10 +62,10 @@ h3 {
   height: auto; 
 } /* assigns height property to auto like I wanted without this setting */
 
-a:link    { color: #b9f2ff;  }
-a:visited { color: #40e0d0;   }
-a:hover   { color: #ffffff; }
-a:active  { color: #39ff14;  }
+a:link    { color: blue;  }
+a:visited { color: purple;   }
+a:hover   { color: cyan; }
+a:active  { color: red;  }
 
 img {
  max-width: 40%;
