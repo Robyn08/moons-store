@@ -13,7 +13,6 @@ h1 {
 body {
   text-align: center;
   background-color: black;
-   background: rgb(255, 238, 0);
  } /*This adds a nice background color to the whole webpage and centers the body*/
 
 ul {
@@ -40,6 +39,7 @@ ol {
 
 p {
   font-family: "Arial";
+  font-size: 25px;font-weight: lighter;
 } /* This assigns the font "Arial" to every paragraph */
 
 hr {
@@ -69,8 +69,8 @@ a:hover   { color: cyan; }
 a:active  { color: red;  }
 
 img {
- max-width: 40%;
- max-height: 40%;
+ max-width: 60%;
+ max-height: 60%;
 }
 .cat {
  display: block;
@@ -80,7 +80,7 @@ img {
 }
 
 nav {
-  max-width: 600px;
+  max-width: 400px;
   border: 6px solid black;
   margin-left: auto;
   margin-right: auto;
@@ -89,10 +89,7 @@ nav {
 main {
       max-width: 600px;
       margin: auto;
-      background: rgb(70, 32, 240);
       background-color: pink;
       color: black;
       padding: 10px;
    }
-   p {font-size: 40px;font-weight: lighter;}
-
