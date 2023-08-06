@@ -19,13 +19,11 @@ ul {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
-  border: 3px solid black;
 } /* This pulls the bullets for the unordered list to the center */
 
 ol {
   display: inline-block;
   margin-left: auto;
-  border: 3px solid black;
   margin-right: auto;
 } /* This pulls the numbers for the order list to the center */
 
@@ -92,5 +90,4 @@ main {
       background-color: #6EFAFB;
       color: black;
       padding: 10px;
-      border: 100px #FF7F50;
    }
