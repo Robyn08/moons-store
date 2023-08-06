@@ -92,5 +92,5 @@ main {
       background-color: #6EFAFB;
       color: black;
       padding: 10px;
-      padding-color: #FF7F50;
+      border: 100px #FF7F50;
    }
